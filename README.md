@@ -2,7 +2,7 @@
 <p>The notebooks in this repository are tailored towards developing custom object detection models using TensorFlow.
 
 <p>Stepwise guideline is itemized below.<br> 
-
+<br>
 <img width="450" height="400" src="https://github.com/fibamzy/TensorFlow_Object_Detection/blob/main/output_samples/OK.png?raw=true">
 <img width="450" height="400" src="https://github.com/fibamzy/TensorFlow_Object_Detection/blob/main/output_samples/NOK.png?raw=true">
 
