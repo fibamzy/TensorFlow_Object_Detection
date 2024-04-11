@@ -3,8 +3,8 @@
 
 <p>Stepwise guideline is itemized below.<br> 
 
-<img width="150" height="100" src="https://github.com/fibamzy/TensorFlow_Object_Detection/blob/main/output_samples/OK.png?raw=true">
-<img width="150" height="100" src="https://github.com/fibamzy/TensorFlow_Object_Detection/blob/main/output_samples/NOK.png?raw=true">
+<img width="300" height="300" src="https://github.com/fibamzy/TensorFlow_Object_Detection/blob/main/output_samples/OK.png?raw=true">
+<img width="300" height="300" src="https://github.com/fibamzy/TensorFlow_Object_Detection/blob/main/output_samples/NOK.png?raw=true">
 
 ## Steps
 <br />
